@@ -59,7 +59,7 @@ const Projects = () => {
                                 <div className='inline-block bg-white w-3/4 px-4 py-2 shadow-md'>
                                     <h2 className='text-xl font-semibold text-gray-800'>{project.title}</h2>
                                     <p className='text-gray-500 text-sm'>{project.price} </p>
-                                    <span>{project.location}</span>
+                                    <span className='px-1'>{project.location}</span>
                                 </div>
                             </div>
                         </div>
