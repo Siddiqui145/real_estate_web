@@ -1,12 +1,60 @@
-# React + Vite
+## 📄 README.md
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🏠 Real Estate Web
 
-Currently, two official plugins are available:
+A modern **real estate website** built with **React** and hosted on **Vercel**, designed to provide users with a seamless experience for browsing properties and exploring details.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🏡 **Property Listings** – Display available real estate options with essential details  
+- 🔍 **Search & Filter** – Find properties by categories and requirements  
+- 📱 **Responsive Design** – Optimized for both desktop and mobile  
+- ⚡ **Fast Deployment** – Hosted on Vercel for quick load times and scalability  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, JavaScript, CSS  
+- **Deployment:** Vercel  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Siddiqui145/real_estate_web.git
+
+
+2. Navigate into the project folder:
+   ```bash
+   cd real_estate_web
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the project locally:
+   ```bash
+   npm start
+   ```
+5. Open in browser: [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 🌐 Live Demo
+
+👉 [View Website on Vercel](#)
+
+---
+
+## 📬 Contact
+
+Developed by **Taha Siddiqui**
+
+* GitHub: [Siddiqui145](https://github.com/Siddiqui145)
+* LinkedIn: [Taha Siddiqui](https://www.linkedin.com/in/taha-siddiqui-842246246/)
+* Email: [siddiqui.staha@gmail.com](mailto:siddiqui.staha@gmail.com)
